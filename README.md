@@ -2,7 +2,7 @@
 This repo contains revised benchmarks of PARSEC and Splash2 for Sniper 7.2
 
 # Download my tar file and untar it.
-- my benchmark.tar file is currently off.
+- ***my benchmark.tar file is currently off.***
 - tar -zxvf benchmarks.tar
 
 # After that, type the following commands.
